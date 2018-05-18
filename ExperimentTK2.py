@@ -1,4 +1,5 @@
 # script to count features
+#'''Inspired by https://stackoverflow.com/questions/7539401/gui-layout-using-tk-grid-geometry-manager'''
 # import modules
 import ogr, osr, os, sys
 import tkinter 
