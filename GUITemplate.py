@@ -1,5 +1,5 @@
 import tkinter as Tkinter
-
+'''Inspired by https://stackoverflow.com/questions/7539401/gui-layout-using-tk-grid-geometry-manager'''
 if __name__ == '__main__':
     form = Tkinter.Tk()
 
